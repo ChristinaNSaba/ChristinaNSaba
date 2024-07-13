@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Christina Saba</h1>
-<h3 align="center">A Computer Engineering Student 🎓</h3>
+<h3 align="center">A Dedicated Computer Engineering Student 🎓</h3>
 <p align="left"> 
   <img src="https://komarev.com/ghpvc/?username=christinansaba&label=Profile%20views&color=0e75b6&style=flat" alt="christinansaba" /> 
 </p>
 <ul>
-  <li>💻 A dedicated computer engineering student. I love exploring new technologies and applying my skills to solve real-world problems to build innovative and efficient solutions.</li>
+  <li>💻I love exploring new technologies and applying my skills to solve real-world problems to build innovative and efficient solutions.</li>
   <li>🌱 Currently studying at Birzeit University.</li>
   <li>📫 How to reach me <a href="mailto:christina.saba123@gmail.com">christina.saba123@gmail.com</a></li>
 </ul>
