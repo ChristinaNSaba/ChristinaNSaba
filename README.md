@@ -34,7 +34,8 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinansaba&show_icons=true&locale=en&langs_count=10" alt="christinansaba" /></p>
+<p>  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinansaba&show_icons=true&locale=en&langs_count=10&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79FF97&border_color=30363D" alt="christinansaba" />
+</p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinansaba&show_icons=true&locale=en" alt="christinansaba" /></p>
 
