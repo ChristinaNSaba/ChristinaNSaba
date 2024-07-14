@@ -34,10 +34,10 @@
   </a> 
 </p>
 
-<p>  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinansaba&show_icons=true&locale=en&langs_count=10&theme=radical&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=79FF97&border_color=30363D" alt="christinansaba" />
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinansaba&show_icons=true&locale=en&langs_count=10&layout=compact&theme=dark&bg_color=151515&title_color=F0DB4F&text_color=C9D1D9&icon_color=F0DB4F" alt="christinansaba" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinansaba&show_icons=true&locale=en" alt="christinansaba" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinansaba&show_icons=true&locale=en&theme=dark&bg_color=151515&title_color=F0DB4F&text_color=C9D1D9&icon_color=F0DB4F" alt="christinansaba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinansaba&" alt="christinansaba" /></p>
-
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinansaba&theme=dark&background=151515&stroke=30363D&ring=F0DB4F&fire=FF5733&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=79FF97&sideLabels=79FF97&dates=30363D" alt="christinansaba" /></p>
