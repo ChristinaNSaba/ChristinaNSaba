@@ -35,9 +35,9 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinansaba&show_icons=true&locale=en&langs_count=10&layout=compact&theme=dark&bg_color=151515&title_color=F0DB4F&text_color=C9D1D9&icon_color=F0DB4F" alt="christinansaba" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=christinansaba&show_icons=true&locale=en&langs_count=10&layout=compact&theme=light&bg_color=FFFFFF&title_color=333333&text_color=333333&icon_color=4CAF50&border_color=DDDDDD" alt="christinansaba" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinansaba&show_icons=true&locale=en&theme=dark&bg_color=151515&title_color=F0DB4F&text_color=C9D1D9&icon_color=F0DB4F" alt="christinansaba" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=christinansaba&show_icons=true&locale=en&theme=light&bg_color=FFFFFF&title_color=333333&text_color=333333&icon_color=4CAF50&border_color=DDDDDD" alt="christinansaba" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinansaba&theme=dark&background=151515&stroke=30363D&ring=F0DB4F&fire=FF5733&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=79FF97&sideLabels=79FF97&dates=30363D" alt="christinansaba" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christinansaba&theme=light&background=FFFFFF&stroke=DDDDDD&ring=4CAF50&fire=FF5733&currStreakNum=333333&sideNums=333333&currStreakLabel=4CAF50&sideLabels=4CAF50&dates=333333" alt="christinansaba" /></p>
