@@ -33,7 +33,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> 
   </a> 
   <a href="https://en.wikipedia.org/wiki/Verilog" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/verilog/verilog-original.svg" alt="verilog" width="40" height="40"/>
+    <i class="fas fa-microchip" style="font-size:40px;"></i>
 </a>
 
 </p>
